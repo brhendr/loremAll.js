@@ -4,7 +4,7 @@ loremAll.js
 Dynamically add placeholder text without making a mess of your markup
 
 Include this file after jQuery:
-<a target="_blank" href="https://rawgithub.com/brhendr/loremAll.js/master/loremAll.js">&gt;script src='loremAll.js' type='text/javascript'&lt;&gt;/script&lt;</a><br>
+<a target="_blank" href="https://rawgithub.com/brhendr/loremAll.js/master/loremAll.js">&lt;script src='loremAll.js' type='text/javascript'&gt;&lt;/script&gt;</a><br>
 
 
 
