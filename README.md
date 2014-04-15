@@ -6,6 +6,8 @@ Dynamically add placeholder text without making a mess of your markup
 Include <a href="https://rawgithub.com/brhendr/loremAll.js/master/loremAll.js">this file</a> after jQuery:<br>
 
 &lt;script src='https://rawgithub.com/brhendr/loremAll.js/master/loremAll.js' type='text/javascript'&gt;&lt;/script&gt;
+<br><br>
+<a href="http://codepen.io/ben10886/pen/rdpGw/" target="_blank">CodePen Example</a>
 ```html
 <!doctype html>
 <html lang="en">
